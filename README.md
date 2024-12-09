@@ -10,7 +10,8 @@ Alongside the MySql schema and the flask server that connects the game and datab
 
 [UML Component Diagram](https://drive.google.com/file/d/1YOw1Kju2w-ld6_wyqusGffQ8ynLHdf1M/view?usp=sharing)
 
-[Database Poster](DatabasePoster)
+[Database Poster](DatabasePoster.pdf)
 
 # Getting Started
 
+The database schema can be used in a MySQL database through a tool like DBeaver. The flask server should be started to ensure connecting to game, and database credentials updated to current database. Created SQL queries in Sheets UI must be updated with current database credentials as well.
